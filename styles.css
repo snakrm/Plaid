@@ -2,9 +2,17 @@
   body {
     overflow-x: hidden;
   }
-  .plaid {
+  #plaid {
     width: 180px;
     height: auto;
+  }
+  .pr2{
+    padding-top: 50px;
+    padding-bottom: 20px;
+  }
+  .pr1{
+    padding-top: 20px;
+    padding-bottom: 20px;
   }
   .btn1 {
     display: inline-block;
@@ -34,6 +42,7 @@
     right: -20px;
     transition: 0.5s;
   }
+ 
 
   .btn1:hover span {
     padding-right: 25px;
@@ -56,101 +65,105 @@
     font-size: 15px;
   }
   .lin2 {
-    margin-left:42px;
+    margin-left: 42px;
   }
   #thrd {
     margin-left: 50%;
-      color: rgb(117, 109, 109);
-      padding-top: 30px;
-      /* margin-right: 50px; */
-    }
-    #venmo{
-      padding-top: 30px;
-      width: 300px;
-      height:150px;
-      margin-left: 200px;
-    }
-    #betterment{
-      padding-top: 10px;
-      margin-left:30px;
-    }
-    #truebill{
-      padding-top: 50px;
-      margin-right: 95px;
-    }
-    #samsung{
-      margin-left: 160px;
-      width: 320px;
-      height:150px;
-      
-    }
-    #acorns{
-      width:350px;
-      margin-left: 60px;
-    }
-    #chime{
-      width: 300px;
-      margin-top:40px;
-      
-    }
-    #bt {
-      margin-left: 680px;
-      margin-bottom: 50px;
-      margin-top: 20px;
-    }
-    .sectn2{
-      margin-left:200px;
-    }
-    #move{
-      margin-top: 89px;
-    }
-    .picnew{
-      margin-right: 30px;
-    }
-    .pr{
-      font-size: 20px;
-      padding-top:10px;
-    }
-    .s4{
-      padding-bottom: 60px;
-    }
-    .head {
-      padding-bottom: 20px;
-    }
-    #sb1{
-      margin-right: 10px;
-      padding-bottom: 20px;
-    }
-    #sb2{
-      padding-top: 52px;
-    }
-    #cnt{
-      padding-top: 52px;
-    }
-    #sb4{
-      padding-top: 82px;
-    }
-    #cont3{
-      padding-top: 58px;
-    }
-    #sp1{
-      padding-bottom: 62px;
-    }
-    .sectn1 {
-      padding-top: 100px;
-      padding-bottom: 100px;
-    }
-    .last {
-      padding-bottom: 20px;
-      font-size: small;
-      font-size: 20px;
-    }
-    #pc1{
-      width: 330px;
+    color: rgb(117, 109, 109);
+    padding-top: 30px;
+    /* margin-right: 50px; */
+  }
+  #venmo {
+    padding-top: 30px;
+    width: 300px;
+    height: 150px;
+    margin-left: 200px;
+  }
+  #betterment {
+    padding-top: 10px;
+    margin-left: 30px;
+  }
+  #truebill {
+    padding-top: 50px;
+    margin-right: 95px;
+  }
+  #samsung {
+    margin-left: 160px;
+    width: 320px;
+    height: 150px;
+  }
+  #acorns {
+    width: 350px;
+    margin-left: 60px;
+  }
+  #chime {
+    width: 300px;
+    margin-top: 40px;
+  }
+  #bt {
+    margin-left: 680px;
+    margin-bottom: 50px;
+    margin-top: 20px;
+  }
+  .sectn2 {
+    margin-left: 200px;
+  }
+  #move {
+    margin-top: 89px;
+    font-size: 45px;
     
-      padding-top:30px;
-      padding-bottom: 30px;
-    }
+  }
+  .picnew {
+    margin-right: 70px;
+  }
+  .pr {
+    font-size: 20px;
+    padding-top: 10px;
+  }
+  .s4 {
+    padding-bottom: 10px;
+    padding-left: 50px;
+    font-weight: bolder;
+  }
+  .head {
+    padding-bottom: 20px;
+    padding-top: 10px;
+  }
+  #sb1 {
+    margin-right: 10px;
+    padding-bottom: 20px;
+    padding-top: 20px;
+  }
+  #sb2 {
+    padding-top: 12px;
+  }
+  #cnt {
+    padding-top: 52px;
+  }
+  #sb4 {
+    padding-top: 52px;
+  }
+  #cont3 {
+    padding-top: 58px;
+  }
+  #sp1 {
+    padding-bottom: 32px;
+  }
+  .sectn1 {
+    padding-top: 100px;
+    padding-bottom: 100px;
+  }
+  .last {
+    padding-bottom: 20px;
+    font-size: small;
+    font-size: 20px;
+  }
+  #pc1 {
+    width: 330px;
+
+    padding-top: 30px;
+    padding-bottom: 30px;
+  }
 
   /* #hro {
     margin-left: 0px;
@@ -167,8 +180,7 @@
     padding-top: 30px;
     display: inline;
   }
-  
- 
+
   .sec {
     width: 100%;
     height: 400px;
@@ -177,7 +189,7 @@
     text-align: right;
     padding-left: 10%;
   }
- 
+
   .im1 {
     padding-right: 70px;
     padding-left: 10px;
@@ -201,7 +213,7 @@
   #flx2 {
     padding-top: 1px;
   }
- 
+
   .rw2 {
     padding-right: 85px;
   }
@@ -250,6 +262,9 @@
     padding-right: 40px;
     padding-top: 20px;
   } */
+  /* #container2 { */
+    /* margin-left: 200px; */
+  /* } */
   .cont {
     padding-left: 155px;
     text-align: left;
@@ -259,17 +274,18 @@
   .par1 {
     padding-top: 10px;
   }
- 
+
   .cont1 {
-    padding-right: 25px;
+    /* padding-right: 25px; */
     padding-top: 100px;
-    padding-left: 155px;
+    /* padding-left: 155px; */
   }
 
   .new {
-    padding-left: 300px;
-    padding-right: 300px;
-    padding-bottom: 300px;
+    /* padding-left: 200px;
+    padding-right: 200px; */
+    padding-bottom: 100px;
+    
   }
   .con1 {
     padding-top: 80px;
@@ -278,7 +294,7 @@
 
   .sectn4 {
     padding-top: 200px;
-    padding-bottom: 25px;
+    padding-bottom: 5px;
   }
 
   .con-lst {
@@ -288,10 +304,10 @@
 
   .sectn5 {
     padding-right: 150px;
-    padding-left: 300px;
+    padding-left: 150px;
   }
   .sectn6 {
-    padding-top: 200px;
+    padding-top: 20px;
     padding-left: 150px;
   }
 
@@ -361,76 +377,96 @@
   .footer {
     background-color: black;
     width: 100%;
-    height: 1200px;
+    height: 1000px;
     color: white;
   }
-  .consumers{
-    padding-bottom: 50px;
+  .consumers {
+    padding-bottom: 100px;
+    margin-left: 50px;
   }
   /* #ftcont{
     padding-top:100px;
   } */
-   #col1 {
-    margin-left: 100px;
+  #col1 {
+    /* margin-left: 100px; */
     text-align: left;
 
-    margin-right: 5px;
+    /* margin-right: 5px; */
 
-    padding-top: 10px;
-    border-top: 1px solid white;
-  } 
+  }
   #col2 {
     text-align: left;
-    margin-left: 5px;
-    margin-right: 10px;
+    /* margin-left: 5px; */
+    /* margin-right: 10px; */
 
-    border-top: 1px solid white;
-    padding-top: 10px;
-  } 
+   
+  }
   #colh1 {
-    padding-left: 15%;
+    padding-left: 35px;
+    padding-bottom: 10px;
   }
   #colh2 {
-    padding-left: 15%;  
+    padding-left: 35px;
+    padding-bottom: 10px;
   }
   #col3 {
-    border-top: 1px solid white;
-    /* margin-left: 10px; */
-    margin-right: 5px;
-    padding-top: 10px;
+    text-align: left;
   }
   #col4 {
-    border-top: 1px solid white;
-    /* margin-left: 10px; */
-    margin-right: 5px;
-    padding-top: 10px;
-  } 
+    text-align: left;
+  }
   #colh22 {
-    padding-left: 15%;
+    padding-left: 35px;
+    padding-bottom: 10px;
   }
   #colh3 {
-    padding-left: 15%;
+    padding-left: 35px;
+    padding-bottom: 10px;
   }
   #colh4 {
-    padding-left: 15%;
+    padding-left: 35px;
+    padding-bottom: 10px;
   }
   #colh5 {
-    padding-left: 15%;
+    padding-left: 35px;
+    padding-bottom: 10px;
   }
   .last {
     padding-bottom: 20px;
+    padding-top: 250px;
     font-size: small;
     font-size: 20px;
+    margin-left: 5px;
   }
   #rw1 {
     padding-top: 5%;
     padding-bottom: 10%;
   }
+  .column1{
+    padding-top: 15px;
+    border-top: solid 1px white;
+  }
+  .column2{
+    padding-top: 15px;
+    border-top: solid 1px white;
+  }
+  .column3{
+    padding-top: 15px;
+    border-top: solid 1px white;
+  }
+  .column4{
+    padding-top: 15px;
+    border-top: solid 1px white;
+  }
+  .nav-item{
+    padding-left: 10px;
+  }
+  form-inline{
+    padding-left: 20px;
+  }
+
+ 
 }
-
-
-
-
 
 
 
@@ -440,6 +476,10 @@
 @media only screen and (max-width: 600px) {
   body {
     overflow-x: hidden;
+  }
+  #plaid{
+    width: 150px;
+    height:auto;
   }
 
   ul {
@@ -458,7 +498,7 @@
     width: 100%;
     height: auto;
   }
-  #ss2{
+  #ss2 {
     width: 100%;
     height: auto;
   }
@@ -476,27 +516,30 @@
     width: 230px;
     height: 130px;
     margin-left: 80px;
+    padding-right:20px;
   }
   #truebill {
     width: 250px;
     height: 80px;
-    margin-left: 80px;
+    margin-left: 40px;
+    padding-bottom: 10px;
   }
   #acorns {
     width: 240px;
     height: 150px;
-    margin-left: 80px;
+    margin-left: 60px;
+    padding-bottom: 10px;
   }
   #chime {
     width: 200px;
     height: 80px;
-    margin-left: 102px;
+    margin-left: 90px;
     padding-bottom: 30px;
   }
   #betterment {
     width: 300px;
     height: 130px;
-    margin-left: 70px;
+    margin-left: 30px;
     padding-bottom: 20px;
   }
 
@@ -530,8 +573,8 @@
     padding-left: 15px;
   }
   #cont3 {
-    padding-left: 15px; 
-    margin-top: 120px; 
+    padding-left: 15px;
+    /* margin-top: 120px; */
   }
 
   .pc1 {
@@ -553,21 +596,20 @@
   .sectn3 {
     padding-left: 15px;
     padding-bottom: 150px;
+    padding-top: 30px;
+  }
+  .sectn6{
+    padding-bottom: 35px;
   }
 
   pictures
-  
-  .plaid {
-    width: 120px;
-    height: 50px;
-  }
+
   #hero {
     width: 100%;
     height: auto;
   }
- 
 
-  .sectn5{
+  .sectn5 {
     padding-bottom: 50px;
   }
   #bt {
@@ -576,7 +618,7 @@
     margin-top: 20px;
   }
   .para1 {
-    padding-top:30px;
+    padding-top: 30px;
     text-align: center;
     padding-right: 25px;
     font-weight: medium;
@@ -584,20 +626,29 @@
   }
   .pr {
     text-align: left;
-    font-size: 30px;
+    font-size: 18px;
   }
+  .pr1{
+    padding-bottom: 10px;
+  }
+  .pr2{
+    padding-bottom: 10px;
+  }
+  
   .btn1 {
     display: inline-block;
     border-radius: 4px;
     border: rgb(255, 255, 255);
     text-align: center;
     font-size: 18px;
-    margin-top: 5px;
+    margin-top: 45px;
     padding-bottom: 5px;
     width: 180px;
     transition: all 0.5s;
     cursor: pointer;
-    margin: 5px;
+    padding-top:5px;
+    padding-bottom:5px;
+    margin-bottom: 30px;
   }
 
   .btn1 span {
@@ -625,7 +676,6 @@
     right: 0;
   }
 
-
   /* #hro {
     margin-left: 0px;
   } */
@@ -643,7 +693,8 @@
   }
   .lin2 {
     padding-left: 25px;
-    display: inline;
+    padding-top: 20px;
+    /* display: inline; */
   }
   .sectn1 {
     padding-top: 100px;
@@ -737,13 +788,15 @@
   }
   .cont1 {
     padding-right: 15px;
-    padding-top: 40px;
+    padding-top: 50px;
   }
-
 
   .con1 {
     padding-top: 120px;
-    padding-bottom: 50px;
+    padding-bottom: 90px;
+  }
+  .pr2{
+    padding-top: 40px;
   }
 
   #btn3 {
@@ -847,5 +900,8 @@
     /* padding-top: 150px; */
 
     font-size: 20px;
+  }
+  #move{
+    padding-top: 70px;
   }
 }
